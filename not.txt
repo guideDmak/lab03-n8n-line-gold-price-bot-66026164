@@ -1,0 +1,25 @@
+สถานะ
+กำลังใช้งาน
+ข้อมูลแชนแนล
+
+แชนแนล ID : 2009063402
+
+ความลับแชนแนล : afbdd9d3c5301110fcf1fffeff7eaaed
+
+
+Ngrok
+J3G937BJ73
+DD6PPWJG77
+85EBQSU6RV
+B6Y5QEJM6C
+SE9F27UYF7
+MJ3AB7VVVF
+T3FKCM772N
+BGE6W4ABYZ
+XKW7WQGHPQ
+T7F6BMAB7V
+
+
+Bearer XKpXYf1gbY/Y5A3/JVDOV5NgHPxknFv+wgOhfb3F2MS8br180BxSR2NR2iCVLEwWMbMTuc+PBmJaA4fwxEkjSSOIANOEgWoFsHz1cqNzTdG2VsUOrbJZWx7PoAk3XpHW8tmI9kzzIewbLNISyVZF4QdB04t89/1O/w1cDnyilFU=
+
+https://archiplasmic-caridad-generously.ngrok-free.dev
